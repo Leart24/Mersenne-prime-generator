@@ -15,7 +15,7 @@ def check_prime(n):
     if n == 2:
         is_prime =1
     elif n == 3:
-        thjeshte = 1
+        is_prime = 1
     else:
         i = 2
         while i <= int(n**0.5):
